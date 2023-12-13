@@ -1,0 +1,26 @@
+body {margin:0;background-color: darkred; font-size 20px}
+.navbar {
+ overflow: hidden;background-color: #333;position: fixed;top: 0;width: 100%;
+}
+.navbar a {float: left;display: block;color: white;text-align: center;padding: 14px
+16px;text-decoration: none;font-size: 17px;
+}
+.navbar a:hover {background-color: black;
+}
+.main {padding: 16px;margin-top: 30px;
+}
+.footer {left: 0;bottom: 0;width: 100%;background-color: darkred;color:
+lightgoldenrodyellow;text-align: center; height: 50px
+}
+.header {padding: 60px;text-align: center;background-color: darkred;color:
+lightgoldenrodyellow; font-size: 30px; font-family: 'Courier New', monospace;
+}
+section {background-color: lightgoldenrodyellow; padding: 10px; margin 20px; border-color:
+darkred; border-style: solid; border-width: 15px; font-size:25px;
+}
+img {
+ max-width: 100%;
+ height: auto;
+ display: block;
+ margin: 0 auto;
+}
